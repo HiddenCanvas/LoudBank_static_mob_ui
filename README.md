@@ -1,6 +1,9 @@
-# tugas_tambahan
+#LoudBak
 
-A new Flutter project.
+
+LoudBank Mobile UI adalah sebuah proyek antarmuka (UI) aplikasi mobile berbasis statis yang dirancang untuk merepresentasikan tampilan aplikasi perbankan digital modern. Proyek ini dibuat sebagai bagian dari tugas pengembangan aplikasi, dengan fokus pada desain user interface yang responsif, intuitif, dan user-friendly.
+
+Aplikasi ini menampilkan berbagai halaman utama yang umum ditemukan pada mobile banking, seperti halaman dashboard, transaksi, dan profil pengguna, tanpa implementasi backend (static UI only).
 
 ## Getting Started
 
