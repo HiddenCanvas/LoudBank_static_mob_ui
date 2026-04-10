@@ -5,6 +5,10 @@ LoudBank Mobile UI adalah sebuah proyek antarmuka (UI) aplikasi mobile berbasis 
 
 Aplikasi ini menampilkan berbagai halaman utama yang umum ditemukan pada mobile banking, seperti halaman dashboard, transaksi, dan profil pengguna, tanpa implementasi backend (static UI only).
 
+berikut adalah reverensi ui 
+
+<img width="334" height="626" alt="Screenshot 2026-04-09 211235" src="https://github.com/user-attachments/assets/4f07fa33-aff4-4608-965d-c8c2c5ff2faf" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
